@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Base.Theme.Track" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+        <item name="android:fontFamily">@font/scp_regular</item>
+    </style>
+
+    <style name="Theme.Track" parent="Base.Theme.Track" />
+</resources>
